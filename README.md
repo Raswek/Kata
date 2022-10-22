@@ -1,2 +1,0 @@
-# Kata
-Short Exercises
